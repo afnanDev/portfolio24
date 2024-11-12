@@ -87,6 +87,7 @@ nav ul li a:hover{
 }
 .btn1:hover{
     background-color: transparent;
+    color: var(--primaryColor);
     border:1px solid var(--secondaryColor);
 }
 .content{
